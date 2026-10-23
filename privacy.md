@@ -1,6 +1,6 @@
-# PM Career Proof Privacy Policy
+# PM Career Proof privacy policy
 
-Updated 27 September 2026
+Updated 23 October 2026
 
 ## Speak an achievement
 
@@ -12,11 +12,19 @@ PM Career Proof is provided by Skythorn Digital Ltd, registered in Scotland as S
 
 ## Career information
 
-Evidence, roles, capabilities, qualifications, targets and feedback are stored locally in the app. PM Career Proof does not upload that content to Skythorn, RevenueCat or an external AI provider. Your device backup settings may create copies with your device backup provider. PDFs and backup files go wherever you choose to export or share them. We cannot recover your local records for you.
+Your evidence portfolio is stored on your device. If you choose an account and cloud backup, the portfolio is also stored with our account hosting provider, Supabase, so you can open it on another device. Backup runs when you choose it. Community members, partners and community moderators cannot access your private portfolio. Authorised service administrators may access hosted data to operate the service and respond to support or deletion requests; this is not end-to-end encrypted storage. We do not send career records to RevenueCat or an AI provider. Device backups and files you export are separate copies you control.
 
 ## Purchases
 
-Apple handles iPhone payments and Google Play handles Android payments. RevenueCat processes purchase and entitlement records, an anonymous app-user identifier and technical information needed to validate and restore access. This can happen when the app checks subscriptions, not only when you buy. We use this information to provide purchased access and handle purchase support. We do not receive card details or send RevenueCat your career records.
+Apple handles iPhone payments and Google Play handles Android payments. RevenueCat processes purchase and entitlement records and a technical app-user identifier. When you sign in, that identifier links purchases to your app account across devices. It is not your email address. Purchase events may be recorded on our server for support and partner accounting. An optional partner code links your account to the referring partner; partner statements contain financial totals, not your career records. We do not receive card details.
+
+## Accounts and headshots
+
+Accounts are optional. Supabase processes your sign-in email, account identifier and authentication records. Apple also processes information if you choose Sign in with Apple. Sign-in tokens are stored in the device secure store. Your optional headshot is part of your private profile until you separately choose to publish it to the community. We do not browse or upload your photo library.
+
+## Community
+
+The community is an invite-only pilot. Your chosen display name, optional professional role, approved headshot, questions and replies are visible to pilot members. Reports, blocks and moderation decisions are used to operate the community and address abuse. Keep personal, client, employer and confidential project details out of posts. Saving advice to your development plan creates a private copy; it does not publish your portfolio. There are no direct messages in this version.
 
 ## Coaching and external tools
 
@@ -28,7 +36,7 @@ The app has no advertising or behavioural analytics SDK and does not track you a
 
 ## Retention and deletion
 
-Use Delete everything in Privacy and data to erase local records and cancel local reminders. Exported files, device backups and purchase records are separate. Deleting the app or its data does not cancel a subscription; manage that with the store where you purchased it. We retain support and purchase-related records as needed for service, accounting and legal obligations. Contact us for help locating or deleting identifiable records we hold.
+Use Privacy and data to erase the current device portfolio. Use My account to export or delete your account, hosted portfolio, profile and authored community content. You can also request deletion at skythorndigital@gmail.com; we will verify account ownership before processing it. Deletion does not erase files you exported or copies on other devices. Support and financial records may be retained for service, accounting and legal obligations, with account references removed where possible. Deleting an account does not cancel a subscription; manage that with the store where you purchased it.
 
 ## Rights and processing
 
@@ -37,5 +45,3 @@ Skythorn is the controller for the limited personal information used to operate 
 ## Your choices and security
 
 Reminders are optional and scheduled locally. Use device security and retain a backup you control. Only store information you are authorised to keep outside work systems; removing names does not guarantee permission or confidentiality. Privacy warnings are reminders, not an anonymisation service. This professional app is not directed at children. Material changes to data handling will be reflected in an updated policy before they are introduced.
-
-[Apple privacy](https://www.apple.com/legal/privacy/) | [Google privacy](https://policies.google.com/privacy) | [RevenueCat privacy](https://www.revenuecat.com/privacy)
