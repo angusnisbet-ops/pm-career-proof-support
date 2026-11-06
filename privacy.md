@@ -1,5 +1,11 @@
 # PM Career Proof privacy policy
 
+## Version 1.7.1 internal testing
+
+Optional email registration, confirmation and account recovery use Supabase. If you choose cloud backup, your reviewed portfolio, optional CV details and headshot are stored in your account. Files selected for CV import are read on your device. Built-in AI sends only the selected text you review and consent to share, through Supabase to OpenAI. This can include work examples, selected CV sections or qualifications, a job advert or interview text. Separate contact fields and the original CV file are excluded. Opening the external community does not share your portfolio. See Skythorn’s version-specific privacy information (https://skythorndigital.com/pm-career-proof/privacy/) for current public and internal releases.
+
+## Earlier versions
+
 Updated 23 October 2026
 
 ## Speak an achievement
